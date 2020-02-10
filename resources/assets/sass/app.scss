@@ -1,0 +1,45 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+// Metismenu
+@import "~metismenu/dist/metisMenu.min.css";
+
+
+// Animate
+@import "~animate.css/animate.min.css";
+
+
+// pe7-icon
+@import "~pe7-icon/dist/scss/pe-icon-7-stroke";
+
+
+// style custom
+@import "SCSS/style";
+
+
+// pretty checkbox
+@import '~pretty-checkbox/src/pretty-checkbox.scss';
+
+
+// awesome-bootstrap-checkbox
+@import "~awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.scss";
+
+// toastr
+@import "~toastr/build/toastr.css";
+
+//bootstrap-touchspin
+@import "../js/vendor/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.min.css"
+
+//vue2-clock-picker
+//@import '~@pencilpix/vue2-clock-picker/dist/vue2-clock-picker.min.css';
+
+
+
